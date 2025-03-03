@@ -24,10 +24,31 @@ that will need little to no changes made to it, such as the NASA website. The co
 They are code reviews, automated testing and version control. In order to avoid technical debt and to identify project defects.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+It gives us clear boundaries on what the project can include or exclude, ensures that it aligns with the stakeholders objectives i starting this project, and allows easier risk management and resource allocation. A work breakdown structure is a way to breakdown a project into smaller, more manageable parts. This helps organize the project, assign tasks and improves the communication among team members.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+It provies a clear timeline, enables progress tracking, coordination, and resource management. Gnatt Charts assist in this by providing a visual representation of the project schedule, making all tasks easier to understand.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issues that it aims to address is the lack of financial literacy and good spending habits in disadvantaged areas. They're significant because, growing up, we were told by our parents that money was not abundant and we had to survive with what we could, when in reality, said parents were horrendous at money management and suffering was caused unnecesarily.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+A clearly defined problem helps in scope management by setting the boundaries for the project, and it provides a clear focus for the development team.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+Our app helps you understand money with fun animations. Learn how to budget, save, and invest in a simple and enjoyable way. Perfect for anyone who wants to get better at managing their finances without feeling overwhelmed.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
+A fun and interactve animated character that pops up every time you change tabs on the app.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+Statistics relating to the number of people formally educated in financial literacy and those who are not
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+By analysing market competition, identifying user needs, adapting to changes in the market, and finding our target market.
